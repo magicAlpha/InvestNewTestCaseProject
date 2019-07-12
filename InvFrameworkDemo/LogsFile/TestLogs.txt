@@ -1,0 +1,680 @@
+2019-07-11 10:52:14 INFO  Logger:84 - Getting OS name
+2019-07-11 10:52:18 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 10:52:26 INFO  Logger:238 - User logged in successfully
+2019-07-11 10:52:26 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 10:52:28 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 10:52:28 INFO  Logger:238 - User logged in successfully
+2019-07-11 10:52:29 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 10:52:29 INFO  Logger:238 - Details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 10:52:29 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 11:14:14 INFO  Logger:84 - Getting OS name
+2019-07-11 11:14:18 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 11:14:27 INFO  Logger:238 - User logged in successfully
+2019-07-11 11:14:27 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 11:14:29 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 11:14:29 INFO  Logger:238 - User logged in successfully
+2019-07-11 11:14:30 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 11:14:30 INFO  Logger:238 - Details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 11:14:30 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 11:14:57 INFO  Logger:238 - The back button is present in the page
+2019-07-11 11:15:07 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 11:35:13 INFO  Logger:84 - Getting OS name
+2019-07-11 11:35:17 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 11:35:26 INFO  Logger:238 - User logged in successfully
+2019-07-11 11:35:26 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 11:35:28 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 11:35:28 INFO  Logger:238 - User logged in successfully
+2019-07-11 11:35:29 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 11:35:49 INFO  Logger:238 - Details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 11:35:52 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 11:35:55 INFO  Logger:238 - The back button is present in the page
+2019-07-11 11:35:57 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 12:54:39 INFO  Logger:84 - Getting OS name
+2019-07-11 12:54:44 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 12:54:54 INFO  Logger:238 - User logged in successfully
+2019-07-11 12:54:54 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 12:54:55 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 12:54:55 INFO  Logger:238 - User logged in successfully
+2019-07-11 12:54:56 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 12:59:53 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 12:59:53 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 12:59:59 INFO  Logger:238 - The back button is present in the page
+2019-07-11 12:59:59 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:01:43 ERROR Logger:243 - The [] tab is not present in the pm-approval page
+2019-07-11 13:01:43 ERROR Logger:243 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are not present in the pm_approval page
+2019-07-11 13:01:43 ERROR Logger:243 - The Portfolio Model Approval page page details test failed
+2019-07-11 13:01:43 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-11 13:01:43 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-11 13:01:43 INFO  Logger:170 - java.lang.NullPointerException
+2019-07-11 13:03:42 INFO  Logger:84 - Getting OS name
+2019-07-11 13:03:46 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:03:55 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:03:55 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:03:57 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:03:57 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:03:58 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:03:58 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:03:58 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:03:58 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:03:58 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:08:53 INFO  Logger:84 - Getting OS name
+2019-07-11 13:08:57 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:09:06 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:09:09 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:09:09 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:09:09 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:09:09 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:09:09 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:09:50 INFO  Logger:84 - Getting OS name
+2019-07-11 13:09:54 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:10:07 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:10:08 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:10:09 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:10:09 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:10:09 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:10:09 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:13:27 INFO  Logger:84 - Getting OS name
+2019-07-11 13:13:31 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:13:40 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:13:42 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:13:42 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:13:42 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:13:42 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:13:42 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:13:55 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:14:58 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:15:20 ERROR Logger:243 - Portfolio Model Approval tab is clicked
+2019-07-11 13:20:54 INFO  Logger:84 - Getting OS name
+2019-07-11 13:20:58 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:21:07 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:21:07 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:21:09 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:21:09 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:21:10 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:21:10 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:21:10 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:21:10 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:21:10 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:21:10 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:21:35 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:22:17 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:23:07 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:23:49 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-11 13:23:49 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-11 13:23:49 INFO  Logger:170 - java.lang.AssertionError: The Portfolio Model Approval page details test passed expected [true] but found [false]
+2019-07-11 13:26:50 INFO  Logger:84 - Getting OS name
+2019-07-11 13:26:55 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:27:04 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:27:04 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:27:06 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:27:06 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:27:07 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:27:07 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:27:07 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:27:07 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:27:07 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:27:07 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:27:34 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:27:34 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:27:34 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:29:13 INFO  Logger:84 - Getting OS name
+2019-07-11 13:29:17 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:29:26 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:29:26 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:29:28 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:29:28 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:29:29 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:29:29 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:29:29 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:29:29 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:29:29 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:29:29 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:29:45 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:29:45 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:29:45 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:31:42 INFO  Logger:84 - Getting OS name
+2019-07-11 13:31:47 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:31:56 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:31:56 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:31:58 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:31:59 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:31:59 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:32:00 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:32:00 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:32:00 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:32:00 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:32:00 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:32:25 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:32:25 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:32:25 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:35:41 INFO  Logger:84 - Getting OS name
+2019-07-11 13:35:45 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:35:55 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:35:55 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:35:56 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:35:57 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:35:57 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:36:59 INFO  Logger:84 - Getting OS name
+2019-07-11 13:37:03 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:37:12 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:37:12 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:37:14 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:37:14 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:37:15 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:38:07 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:38:07 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:38:07 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:38:07 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:38:07 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:38:15 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:38:17 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:38:27 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:40:04 INFO  Logger:84 - Getting OS name
+2019-07-11 13:40:08 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:40:17 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:40:17 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:40:19 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:40:19 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:40:20 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:40:26 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:40:26 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:40:26 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:40:26 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:40:27 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:40:35 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:40:41 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:40:43 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:41:24 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 13:43:07 INFO  Logger:84 - Getting OS name
+2019-07-11 13:43:11 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:43:20 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:43:20 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:43:21 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:43:22 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:43:22 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:44:08 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:44:08 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:44:08 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:44:08 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:44:08 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:44:17 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:44:17 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:44:17 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:44:17 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-11 13:44:17 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-11 13:44:17 INFO  Logger:170 - java.lang.AssertionError: The Portfolio Model Approval page details test passed expected [true] but found [false]
+2019-07-11 13:44:59 INFO  Logger:84 - Getting OS name
+2019-07-11 13:45:03 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:45:13 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:45:13 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:45:14 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:45:14 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:45:15 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:45:15 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:45:15 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:45:15 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:45:15 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:45:16 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:45:27 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:45:27 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:45:27 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:45:31 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 13:52:34 ERROR Logger:243 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are not present in the pm_approval page
+2019-07-11 13:53:57 INFO  Logger:84 - Getting OS name
+2019-07-11 13:54:01 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:54:11 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:54:11 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:54:12 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:54:13 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:54:14 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:54:14 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:54:14 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:54:14 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:54:14 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:54:14 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:54:55 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:54:55 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:54:55 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:54:58 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 13:56:21 ERROR Logger:243 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are not present in the pm_approval page
+2019-07-11 13:56:21 ERROR Logger:243 - The Portfolio Model Approval page page details test failed
+2019-07-11 13:56:21 ERROR Logger:243 - 
+2019-07-11 13:56:21 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-11 13:56:21 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-11 13:56:21 INFO  Logger:170 - org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//div[@class='layout-content']//child::div[@class='ui-table-wrapper ng-star-inserted']//following::div[1]//span/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55018}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 461e073c99ee692336f7b061f4a143a5
+*** Element info: {Using=xpath, value=//div[@class='layout-content']//child::div[@class='ui-table-wrapper ng-star-inserted']//following::div[1]//span/text()}
+2019-07-11 13:58:03 INFO  Logger:84 - Getting OS name
+2019-07-11 13:58:07 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 13:58:17 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:58:17 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 13:58:18 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:58:19 INFO  Logger:238 - User logged in successfully
+2019-07-11 13:58:19 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 13:58:20 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 13:58:20 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 13:58:20 INFO  Logger:238 - The back button is present in the page
+2019-07-11 13:58:20 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 13:58:20 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 13:59:27 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 13:59:27 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 13:59:27 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 13:59:31 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 13:59:44 ERROR Logger:243 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are not present in the pm_approval page
+2019-07-11 13:59:46 ERROR Logger:243 - The Portfolio Model Approval page page details test failed
+2019-07-11 13:59:46 ERROR Logger:243 - 
+2019-07-11 13:59:46 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-11 13:59:46 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-11 13:59:46 INFO  Logger:170 - org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//div[@class='layout-content']//child::div[@class='ui-table-wrapper ng-star-inserted']//following::div[1]//span/text()[1]" is: [object Text]. It should be an element.
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55470}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: bfcc7588267978cd1654ef371ee979c9
+*** Element info: {Using=xpath, value=//div[@class='layout-content']//child::div[@class='ui-table-wrapper ng-star-inserted']//following::div[1]//span/text()[1]}
+2019-07-11 14:03:29 INFO  Logger:84 - Getting OS name
+2019-07-11 14:03:33 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 14:03:42 INFO  Logger:238 - User logged in successfully
+2019-07-11 14:03:42 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 14:03:44 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 14:03:44 INFO  Logger:238 - User logged in successfully
+2019-07-11 14:03:45 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 14:03:45 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 14:03:45 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 14:03:45 INFO  Logger:238 - The back button is present in the page
+2019-07-11 14:03:45 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 14:03:45 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 14:03:50 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 14:03:50 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 14:03:50 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 14:03:52 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 14:07:45 INFO  Logger:84 - Getting OS name
+2019-07-11 14:07:49 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-11 14:07:58 INFO  Logger:238 - User logged in successfully
+2019-07-11 14:07:58 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-11 14:07:59 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 14:08:00 INFO  Logger:238 - User logged in successfully
+2019-07-11 14:08:00 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-11 14:08:01 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-11 14:08:01 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-11 14:08:01 INFO  Logger:238 - The back button is present in the page
+2019-07-11 14:08:01 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-11 14:08:01 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-11 14:08:31 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-11 14:08:32 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-11 14:08:32 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-11 14:08:34 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-11 14:09:05 INFO  Logger:238 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are present in the pm_approval page
+2019-07-12 15:37:25 INFO  Logger:84 - Getting OS name
+2019-07-12 15:37:29 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 15:37:38 INFO  Logger:238 - User logged in successfully
+2019-07-12 15:37:38 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 15:37:40 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 15:37:40 INFO  Logger:238 - User logged in successfully
+2019-07-12 15:37:41 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-12 15:37:42 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-12 15:37:42 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-12 15:37:42 INFO  Logger:238 - The back button is present in the page
+2019-07-12 15:37:42 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 15:37:42 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 15:37:43 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-12 15:37:43 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 15:37:43 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-12 15:37:43 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 15:37:43 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 15:37:43 INFO  Logger:170 - java.lang.AssertionError: The Portfolio Model Approval page details test passed expected [true] but found [false]
+2019-07-12 15:38:15 INFO  Logger:84 - Getting OS name
+2019-07-12 15:38:19 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 15:38:33 INFO  Logger:238 - User logged in successfully
+2019-07-12 15:38:33 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 15:38:34 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 15:38:35 INFO  Logger:238 - User logged in successfully
+2019-07-12 15:38:35 INFO  Logger:238 - The [Portfolio Model Management] tab is present in the pm_management page
+2019-07-12 15:38:36 INFO  Logger:238 - These table coulmns name : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated] are present in the portfolio management page
+2019-07-12 15:38:36 INFO  Logger:238 - The [Portfolio Model List] title is present
+2019-07-12 15:38:36 INFO  Logger:238 - The back button is present in the page
+2019-07-12 15:38:36 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 15:38:36 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 15:41:01 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-12 15:41:01 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 15:41:01 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-12 15:41:07 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-12 15:41:51 INFO  Logger:238 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are present in the pm_approval page
+2019-07-12 16:19:37 INFO  Logger:84 - Getting OS name
+2019-07-12 16:19:42 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:19:53 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:19:53 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:19:54 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:19:55 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:20:07 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:20:24 ERROR Logger:243 - The Portfolio management page details test failed
+2019-07-12 16:20:24 ERROR Logger:243 - 
+2019-07-12 16:20:24 INFO  Logger:165 - Test testPortfolioModelManagementTest module has been started
+2019-07-12 16:20:24 INFO  Logger:169 - Test testPortfolioModelManagementTest module has been failed
+2019-07-12 16:20:24 INFO  Logger:170 - java.util.MissingFormatArgumentException: Format specifier '%s'
+2019-07-12 16:20:25 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 16:20:36 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-12 16:20:36 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 16:20:36 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-12 16:20:37 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-12 16:20:40 INFO  Logger:238 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are present in the pm_approval page
+2019-07-12 16:21:03 INFO  Logger:84 - Getting OS name
+2019-07-12 16:21:07 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:21:16 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:21:16 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:21:17 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:21:18 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:21:25 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:22:41 INFO  Logger:84 - Getting OS name
+2019-07-12 16:22:45 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:22:55 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:22:55 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:22:57 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:22:57 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:23:06 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:27:07 ERROR Logger:243 - The Portfolio management page details test failed
+2019-07-12 16:27:07 ERROR Logger:243 - 
+2019-07-12 16:27:07 INFO  Logger:165 - Test testPortfolioModelManagementTest module has been started
+2019-07-12 16:27:07 INFO  Logger:169 - Test testPortfolioModelManagementTest module has been failed
+2019-07-12 16:27:07 INFO  Logger:170 - java.util.MissingFormatArgumentException: Format specifier '%s'
+2019-07-12 16:27:08 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 16:27:13 INFO  Logger:238 - The [Portfolio Model Approval] tab is present in the pm-approval page
+2019-07-12 16:27:13 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 16:27:13 INFO  Logger:238 - The [Portfolio Model Approval : Bank Permissions] title is present
+2019-07-12 16:27:14 INFO  Logger:238 - These table coulmns name : [Portfolio Model Name, Magic Bank] are present in the portfolio model approval page
+2019-07-12 16:27:17 INFO  Logger:238 - These [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank] status icon label names are present in the pm_approval page
+2019-07-12 16:29:08 INFO  Logger:84 - Getting OS name
+2019-07-12 16:29:13 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:29:22 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:29:22 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:29:23 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:29:23 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:30:07 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:31:12 INFO  Logger:238 - Portfolio Management page details verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [ D C Model Name Currency Contact Detail Model Style Open / Close Last Updated]
+2019-07-12 16:33:27 INFO  Logger:84 - Getting OS name
+2019-07-12 16:33:31 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:33:41 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:33:41 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:33:43 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:33:43 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:33:44 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:33:44 INFO  Logger:238 - Portfolio Management page details verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [ D C Model Name Currency Contact Detail Model Style Open / Close Last Updated]
+2019-07-12 16:33:44 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 16:33:44 INFO  Logger:238 - The back button is present in the page
+2019-07-12 16:33:44 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 16:50:37 INFO  Logger:84 - Getting OS name
+2019-07-12 16:50:41 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 16:50:51 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:50:51 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 16:50:52 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 16:50:53 INFO  Logger:238 - User logged in successfully
+2019-07-12 16:50:53 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 16:50:54 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 16:50:54 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 16:50:54 INFO  Logger:238 - The back button is present in the page
+2019-07-12 16:50:54 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 16:50:54 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 16:50:55 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 16:50:55 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 16:50:55 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 16:50:55 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 16:50:55 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 16:50:55 INFO  Logger:170 - java.lang.AssertionError: The Portfolio Model Approval page details test passed expected [true] but found [false]
+2019-07-12 17:02:37 INFO  Logger:84 - Getting OS name
+2019-07-12 17:02:42 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:02:53 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:02:53 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:02:55 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:02:55 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:02:56 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:02:56 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:02:56 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:02:56 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:02:56 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:03:16 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:03:25 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:03:25 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:03:25 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:03:25 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:03:25 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:03:25 INFO  Logger:170 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:05:24 INFO  Logger:84 - Getting OS name
+2019-07-12 17:05:29 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:05:39 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:05:39 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:05:41 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:05:41 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:05:42 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:05:42 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:05:42 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:05:42 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:05:42 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:05:42 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:06:01 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:06:02 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:06:04 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:06:26 ERROR Logger:243 - The Portfolio Model Approval page page details test failed
+2019-07-12 17:06:26 ERROR Logger:243 - 
+2019-07-12 17:06:26 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:06:26 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:06:26 INFO  Logger:170 - java.util.MissingFormatArgumentException: Format specifier '%s'
+2019-07-12 17:07:26 INFO  Logger:84 - Getting OS name
+2019-07-12 17:07:31 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:07:40 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:07:40 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:07:42 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:07:42 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:07:43 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:07:43 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:07:43 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:07:43 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:07:43 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:07:43 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:07:59 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:08:03 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:08:09 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:11:12 INFO  Logger:84 - Getting OS name
+2019-07-12 17:11:16 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:11:29 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:11:29 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:11:31 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:11:31 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:11:31 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:11:32 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:11:32 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:11:32 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:11:32 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:11:32 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:14:00 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:14:01 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:14:03 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:14:19 INFO  Logger:238 - The table column names of Portfolio model approval page verification passed. Expected details : [Portfolio Model Name, Magic Bank], Actal details : [, Portfolio Model Name, Magic Bank]
+2019-07-12 17:14:36 INFO  Logger:238 - The status icon text in pm_approval page verification passed. Expected details : [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank], Actual details : [Not Submitted Submitted to Bank Approved by Bank Cancelled by Asset Manager Revoked by Bank Rejected by Bank]
+2019-07-12 17:16:14 INFO  Logger:84 - Getting OS name
+2019-07-12 17:16:19 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:16:31 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:16:31 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:16:33 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:16:33 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:16:34 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:16:34 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:16:34 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:16:34 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:16:34 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:16:34 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:16:35 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:16:35 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:16:35 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:16:35 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:16:35 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:16:35 INFO  Logger:170 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:22:44 INFO  Logger:84 - Getting OS name
+2019-07-12 17:22:48 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:22:57 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:22:57 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:22:59 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:22:59 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:23:00 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:23:00 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:23:00 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:23:00 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:23:00 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:23:00 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:23:01 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:23:01 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:23:01 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:23:01 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:23:01 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:23:01 INFO  Logger:170 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:25:14 INFO  Logger:84 - Getting OS name
+2019-07-12 17:25:19 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:25:28 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:25:28 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:25:29 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:25:30 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:25:30 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:25:30 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:25:31 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:25:31 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:25:31 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:25:31 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:25:41 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:25:42 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:25:43 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:25:55 INFO  Logger:238 - The table column names of Portfolio model approval page verification passed. Expected details : [Portfolio Model Name, Magic Bank], Actal details : [, Portfolio Model Name, Magic Bank]
+2019-07-12 17:26:25 INFO  Logger:238 - The status icon text in pm_approval page verification passed. Expected details : [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank], Actual details : [Not Submitted Submitted to Bank Approved by Bank Cancelled by Asset Manager Revoked by Bank Rejected by Bank]
+2019-07-12 17:27:29 INFO  Logger:84 - Getting OS name
+2019-07-12 17:27:34 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:27:43 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:27:43 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:27:44 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:27:45 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:27:45 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:27:46 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:27:46 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:27:46 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:27:46 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:27:46 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:27:47 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:27:47 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:27:47 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:27:47 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:27:47 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:27:47 INFO  Logger:170 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:28:38 INFO  Logger:84 - Getting OS name
+2019-07-12 17:28:43 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:28:51 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:28:51 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:28:53 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:28:53 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:28:54 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:28:54 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:28:54 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:28:54 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:28:54 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:28:55 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:28:55 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:28:56 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:28:56 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:29:00 INFO  Logger:238 - The table column names of Portfolio model approval page verification passed. Expected details : [Portfolio Model Name, Magic Bank], Actal details : [, Portfolio Model Name, Magic Bank]
+2019-07-12 17:29:00 INFO  Logger:238 - The status icon text in pm_approval page verification passed. Expected details : [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank], Actual details : [Not Submitted Submitted to Bank Approved by Bank Cancelled by Asset Manager Revoked by Bank Rejected by Bank]
+2019-07-12 17:32:44 INFO  Logger:84 - Getting OS name
+2019-07-12 17:32:48 INFO  Logger:229 - Test [Verify User Login] has been started
+2019-07-12 17:32:57 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:32:57 INFO  Logger:238 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:32:59 INFO  Logger:229 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:32:59 INFO  Logger:238 - User logged in successfully
+2019-07-12 17:33:00 INFO  Logger:238 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:33:00 INFO  Logger:238 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:33:00 INFO  Logger:238 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:33:00 INFO  Logger:238 - The back button is present in the page
+2019-07-12 17:33:00 INFO  Logger:238 - The NewPortfolio button is present in the page
+2019-07-12 17:33:00 INFO  Logger:229 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:33:01 INFO  Logger:238 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:33:01 INFO  Logger:238 - Portfolio Model Approval tab is clicked
+2019-07-12 17:33:01 INFO  Logger:238 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:33:01 INFO  Logger:165 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:33:01 INFO  Logger:169 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:33:01 INFO  Logger:170 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:36:12 INFO  Logger:84 - Getting OS name
+2019-07-12 17:36:16 INFO  Logger:230 - Test [Verify User Login] has been started
+2019-07-12 17:36:25 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:36:25 INFO  Logger:239 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:36:27 INFO  Logger:230 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:36:27 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:36:28 INFO  Logger:239 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:36:28 INFO  Logger:239 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:36:28 INFO  Logger:239 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:36:28 INFO  Logger:239 - The back button is present in the page
+2019-07-12 17:36:28 INFO  Logger:239 - The NewPortfolio button is present in the page
+2019-07-12 17:36:28 INFO  Logger:230 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:36:29 INFO  Logger:239 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:36:30 INFO  Logger:239 - Portfolio Model Approval tab is clicked
+2019-07-12 17:36:30 INFO  Logger:239 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:36:30 INFO  Logger:166 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:36:30 INFO  Logger:170 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:36:30 INFO  Logger:171 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:36:52 INFO  Logger:84 - Getting OS name
+2019-07-12 17:36:56 INFO  Logger:230 - Test [Verify User Login] has been started
+2019-07-12 17:37:05 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:37:05 INFO  Logger:239 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:37:06 INFO  Logger:230 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:37:07 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:37:07 INFO  Logger:239 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:37:08 INFO  Logger:239 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:37:08 INFO  Logger:239 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:37:08 INFO  Logger:239 - The back button is present in the page
+2019-07-12 17:37:08 INFO  Logger:239 - The NewPortfolio button is present in the page
+2019-07-12 17:37:08 INFO  Logger:230 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:37:09 INFO  Logger:239 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:37:09 INFO  Logger:239 - Portfolio Model Approval tab is clicked
+2019-07-12 17:37:09 INFO  Logger:239 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:37:13 INFO  Logger:239 - The table column names of Portfolio model approval page verification passed. Expected details : [Portfolio Model Name, Magic Bank], Actal details : [, Portfolio Model Name, Magic Bank]
+2019-07-12 17:37:13 INFO  Logger:239 - The status icon text in pm_approval page verification passed. Expected details : [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank], Actual details : [Not Submitted Submitted to Bank Approved by Bank Cancelled by Asset Manager Revoked by Bank Rejected by Bank]
+2019-07-12 17:42:43 INFO  Logger:84 - Getting OS name
+2019-07-12 17:42:47 INFO  Logger:230 - Test [Verify User Login] has been started
+2019-07-12 17:42:56 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:42:56 INFO  Logger:239 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:42:58 INFO  Logger:230 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:42:58 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:42:59 INFO  Logger:239 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:42:59 INFO  Logger:239 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:42:59 INFO  Logger:239 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:42:59 INFO  Logger:239 - The back button is present in the page
+2019-07-12 17:42:59 INFO  Logger:239 - The NewPortfolio button is present in the page
+2019-07-12 17:42:59 INFO  Logger:230 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:43:00 INFO  Logger:239 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:43:00 INFO  Logger:239 - Portfolio Model Approval tab is clicked
+2019-07-12 17:43:00 INFO  Logger:239 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:43:00 INFO  Logger:166 - Test testPortfolioModelApprovalTest module has been started
+2019-07-12 17:43:00 INFO  Logger:170 - Test testPortfolioModelApprovalTest module has been failed
+2019-07-12 17:43:00 INFO  Logger:171 - java.lang.AssertionError: expected [true] but found [false]
+2019-07-12 17:43:40 INFO  Logger:84 - Getting OS name
+2019-07-12 17:43:44 INFO  Logger:230 - Test [Verify User Login] has been started
+2019-07-12 17:43:53 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:43:53 INFO  Logger:239 - Verified Title [ Investa Solutions ] is displayed on the Dashboard page
+2019-07-12 17:43:54 INFO  Logger:230 - Test [Verify Portfolio Model Management Details] has been started
+2019-07-12 17:43:55 INFO  Logger:239 - User logged in successfully
+2019-07-12 17:43:55 INFO  Logger:239 - Portfolio Management tab title verification passed. Expected details : [Portfolio Model Management], Actual details : [Portfolio Model Management]
+2019-07-12 17:43:56 INFO  Logger:239 - The table column names of Portfolio Management page verification passed. Expected details : [D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated], Actual details : [, D, C, Model Name, Currency, Contact Detail, Model Style, Open / Close, Last Updated]
+2019-07-12 17:43:56 INFO  Logger:239 - Portfolio model list title verification passed. Expected details : [Portfolio Model List], Actual details : [Portfolio Model List]
+2019-07-12 17:43:56 INFO  Logger:239 - The back button is present in the page
+2019-07-12 17:43:56 INFO  Logger:239 - The NewPortfolio button is present in the page
+2019-07-12 17:43:56 INFO  Logger:230 - Test [Verify Portfolio Model Approval Details] has been started
+2019-07-12 17:43:57 INFO  Logger:239 - Portfolio model approval tab title verification passed. Expected details : [Portfolio Model Approval ], Actual details : [Portfolio Model Approval]
+2019-07-12 17:43:57 INFO  Logger:239 - Portfolio Model Approval tab is clicked
+2019-07-12 17:43:57 INFO  Logger:239 - Portfolio model list Bank Permissions title verification passed. Expected details : [Portfolio Model Approval : Bank Permissions], Actual details : [Portfolio Model Approval : Bank Permissions]
+2019-07-12 17:43:59 INFO  Logger:239 - The table column names of Portfolio model approval page verification passed. Expected details : [Portfolio Model Name, Magic Bank], Actal details : [, Portfolio Model Name, Magic Bank]
+2019-07-12 17:43:59 INFO  Logger:239 - The status icon text in pm_approval page verification passed. Expected details : [Not Submitted, Submitted to Bank, Approved by Bank , Cancelled by Asset Manager, Revoked by Bank , Rejected by Bank], Actual details : [Not Submitted Submitted to Bank Approved by Bank Cancelled by Asset Manager Revoked by Bank Rejected by Bank]

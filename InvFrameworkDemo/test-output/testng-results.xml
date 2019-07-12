@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15006" started-at="2019-07-12T12:13:44Z" finished-at="2019-07-12T12:13:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15006" started-at="2019-07-12T12:13:44Z" finished-at="2019-07-12T12:13:59Z">
+      <class name="com.investaSolutions.tests.VerifyPortfolioModelApprovalTest">
+        <test-method status="PASS" signature="testPortfolioModelApprovalTest(java.lang.reflect.Method)[pri:2, instance:com.investaSolutions.tests.VerifyPortfolioModelApprovalTest@69f63d95]" name="testPortfolioModelApprovalTest" duration-ms="3080" started-at="2019-07-12T17:43:56Z" description="Verifying portfolio model approval page details test" finished-at="2019-07-12T17:43:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.investaSolutions.tests.VerifyPortfolioModelApprovalTest.testPortfolioModelApprovalTest(java.lang.reflect.Method) throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPortfolioModelApprovalTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.investaSolutions.tests.VerifyPortfolioModelApprovalTest@69f63d95]" name="afterMethod" is-config="true" duration-ms="88" started-at="2019-07-12T17:43:59Z" finished-at="2019-07-12T17:43:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPortfolioModelApprovalTest status=SUCCESS method=VerifyPortfolioModelApprovalTest.testPortfolioModelApprovalTest(java.lang.reflect.Method)[pri:2, instance:com.investaSolutions.tests.VerifyPortfolioModelApprovalTest@69f63d95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.investaSolutions.tests.VerifyPortfolioModelApprovalTest -->
+      <class name="com.investaSolutions.tests.LoginTest">
+        <test-method status="PASS" signature="beforeSuite(java.lang.String)[pri:0, instance:com.investaSolutions.tests.LoginTest@6928f576]" name="beforeSuite" is-config="true" duration-ms="5445" started-at="2019-07-12T17:43:39Z" finished-at="2019-07-12T17:43:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testUserLoginFunctionality(java.lang.reflect.Method)[pri:0, instance:com.investaSolutions.tests.LoginTest@6928f576]" name="testUserLoginFunctionality" duration-ms="8701" started-at="2019-07-12T17:43:44Z" description="verifying login page title test" finished-at="2019-07-12T17:43:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.investaSolutions.tests.LoginTest.testUserLoginFunctionality(java.lang.reflect.Method) throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLoginFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.investaSolutions.tests.LoginTest@6928f576]" name="afterMethod" is-config="true" duration-ms="1564" started-at="2019-07-12T17:43:53Z" finished-at="2019-07-12T17:43:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testUserLoginFunctionality status=SUCCESS method=LoginTest.testUserLoginFunctionality(java.lang.reflect.Method)[pri:0, instance:com.investaSolutions.tests.LoginTest@6928f576] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.investaSolutions.tests.LoginTest@6928f576]" name="generateReport" is-config="true" duration-ms="6207" started-at="2019-07-12T17:43:59Z" finished-at="2019-07-12T17:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.investaSolutions.tests.LoginTest -->
+      <class name="com.investaSolutions.tests.VerifyPortfolioModelManagementTest">
+        <test-method status="PASS" signature="testPortfolioModelManagementTest(java.lang.reflect.Method)[pri:1, instance:com.investaSolutions.tests.VerifyPortfolioModelManagementTest@660e9100]" name="testPortfolioModelManagementTest" duration-ms="1196" started-at="2019-07-12T17:43:54Z" description="Verifying portfolio model management page details test" finished-at="2019-07-12T17:43:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.investaSolutions.tests.VerifyPortfolioModelManagementTest.testPortfolioModelManagementTest(java.lang.reflect.Method) throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPortfolioModelManagementTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.investaSolutions.tests.VerifyPortfolioModelManagementTest@660e9100]" name="afterMethod" is-config="true" duration-ms="118" started-at="2019-07-12T17:43:56Z" finished-at="2019-07-12T17:43:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPortfolioModelManagementTest status=SUCCESS method=VerifyPortfolioModelManagementTest.testPortfolioModelManagementTest(java.lang.reflect.Method)[pri:1, instance:com.investaSolutions.tests.VerifyPortfolioModelManagementTest@660e9100] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.investaSolutions.tests.VerifyPortfolioModelManagementTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

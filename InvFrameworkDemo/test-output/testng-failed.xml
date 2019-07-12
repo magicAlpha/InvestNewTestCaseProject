@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.investaSolutions.tests.VerifyPortfolioModelManagementTest">
+        <methods>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.investaSolutions.tests.VerifyPortfolioModelManagementTest -->
+      <class name="com.investaSolutions.tests.VerifyPortfolioModelApprovalTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testPortfolioModelApprovalTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.investaSolutions.tests.VerifyPortfolioModelApprovalTest -->
+      <class name="com.investaSolutions.tests.LoginTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="generateReport"/>
+        </methods>
+      </class> <!-- com.investaSolutions.tests.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
